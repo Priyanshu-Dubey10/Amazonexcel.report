@@ -1,3 +1,7 @@
+Live Dashboard [Link](https://docs.google.com/spreadsheets/d/1PA1WuoEGUtZ1gVRgaTYUaAr1dWhdr7CE/edit?usp=sharing&ouid=107064393093360013926&rtpof=true&sd=true)
+
+
+
 # **Excel Amazon Sales Dashboard**  
 
 ## **Project Overview**  
